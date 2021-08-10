@@ -1,4 +1,4 @@
-Hi, I'm Mijian Xu, a postdoc of Geophysics.
+Hi, I'm Mijian Xu, a PhD of Geophysics.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
 
