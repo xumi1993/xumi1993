@@ -22,7 +22,7 @@ Hi, I'm Mijian Xu, a PhD of Geophysics.
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=javascript,html,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyternotbook,javascript,html,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
 
 <!--
 **xumi1993/xumi1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
