@@ -19,7 +19,7 @@ Hi, I'm Mijian Xu, a PhD of Geophysics.
 <a href="https://github.com/xumi1993/STALTA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=STALTA&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/STALTA">
+<a href="https://github.com/xumi1993/ForRF">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=ForRF&theme=buefy" />
 </a>
 
