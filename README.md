@@ -19,8 +19,8 @@ Hi, I'm Mijian Xu, a PhD of Seismology.
 <a href="https://github.com/xumi1993/STALTA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=STALTA&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/ForRF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=ForRF&theme=buefy" />
+<a href="https://github.com/xumi1993/CCCN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=CCCN&theme=buefy" />
 </a>
 
 ## Skills
