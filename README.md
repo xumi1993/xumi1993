@@ -10,8 +10,8 @@ Hi, I'm Mijian Xu, a PhD of Seismology.
 <a href="https://github.com/xumi1993/bqmail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=bqmail&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/SplitRFlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=SplitRFlab&theme=buefy" />
+<a href="https://github.com/MIGG-NTU/PyTomoATT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MIGG-NTU&repo=PyTomoATT&theme=buefy" />
 </a>
 <a href="https://github.com/xumi1993/mccc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=mccc&theme=buefy" />
