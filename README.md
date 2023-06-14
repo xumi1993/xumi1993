@@ -1,6 +1,8 @@
-Hi, I'm Mijian Xu, a PhD of Seismology.
+Hi, I'm Mijian Xu, a PhD of Seismology. Now working at Nanyang Technological University as a research fellow.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=buefy)]()
+[![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true)]()
+[![Mijian's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=xumi1993&country_code=singapore)]()
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xumi1993&theme=react-dark)]()
 
 ## Open source software
 
