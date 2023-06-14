@@ -1,6 +1,6 @@
 Hi, I'm Mijian Xu, a PhD of Seismology.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=buefy)]()
 
 ## Open source software
 
