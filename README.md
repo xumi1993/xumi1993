@@ -1,10 +1,11 @@
+<h1 align="center"><strong> Mijian Xu <strong/></h1>
+  
 Hi, I'm Mijian Xu, a PhD of Seismology. Now working at Nanyang Technological University as a research fellow.
 
 [![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true)]()
 [![Mijian's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=xumi1993&country_code=singapore)]()
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xumi1993&theme=react-dark)]()
 
-## Open source software
+<!--  ## Open source software
 
 <a href="https://github.com/xumi1993/seispy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=seispy&theme=buefy" />
@@ -24,7 +25,7 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at Nanyang Technological Uni
 <a href="https://github.com/xumi1993/CCCN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=CCCN&theme=buefy" />
 </a>
-
+ -->
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,matlab,m,javascript,html,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
