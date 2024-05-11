@@ -3,7 +3,8 @@
 Hi, I'm Mijian Xu, a PhD of Seismology. Now working at Nanyang Technological University as a research fellow.
 
 ![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true)
-![Mijian's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=xumi1993&country_code=singapore)
+
+I am now ranked [![committers.top badge](https://user-badge.committers.top/singapore/xumi1993.svg)](https://user-badge.committers.top/singapore/xumi1993) among the most active Github users in Singapore
 <!--  ## Open source software
 
 <a href="https://github.com/xumi1993/seispy">
