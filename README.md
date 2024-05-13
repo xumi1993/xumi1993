@@ -30,8 +30,8 @@ I am now ranked [![committers.top badge](https://user-badge.committers.top/singa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,matlab,m,perl,javascript,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
 
-[![Mijian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xumi1993)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Mijian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xumi1993)](https://github.com/anuraghazra/github-readme-stats)
 **xumi1993/xumi1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
