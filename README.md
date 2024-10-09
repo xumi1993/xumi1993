@@ -1,6 +1,6 @@
 <h1 align="center"><strong> Mijian Xu <strong/></h1>
   
-Hi, I'm Mijian Xu, a PhD of Seismology. Now working at Nanyang Technological University as a research fellow.
+Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as a postdoctoral research fellow.
 
 ![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true)
 
