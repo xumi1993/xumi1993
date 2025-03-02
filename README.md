@@ -27,7 +27,7 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
  -->
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,matlab,m,perl,javascript,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,m,perl,javascript,matlab,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
 
 <!--
 [![Mijian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xumi1993)](https://github.com/anuraghazra/github-readme-stats)
