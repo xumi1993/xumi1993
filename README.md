@@ -2,29 +2,29 @@
   
 Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as a postdoctoral research fellow.
 
-![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true)
+![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=buefy)
 
-<!--  ## Open source software
+## Open source software
 
 <a href="https://github.com/xumi1993/seispy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=seispy&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/bqmail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=bqmail&theme=buefy" />
+<a href="https://github.com/xumi1993/SurfATT-iso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=SurfATT-iso&theme=buefy" />
 </a>
-<a href="https://github.com/MIGG-NTU/PyTomoATT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MIGG-NTU&repo=PyTomoATT&theme=buefy" />
+<a href="https://github.com/tomoatt/PyTomoATT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomoatt&repo=PyTomoATT&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/mccc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=mccc&theme=buefy" />
+<a href="https://github.com/tomoatt/TomoATT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomoatt&repo=TomoATT&theme=buefy" />
 </a>
 <a href="https://github.com/xumi1993/STALTA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=STALTA&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/CCCN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=CCCN&theme=buefy" />
+<a href="https://github.com/xumi1993/SpecFWI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=SpecFWI&theme=buefy" />
 </a>
- -->
+
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,m,perl,javascript,matlab,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
