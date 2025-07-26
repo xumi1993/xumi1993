@@ -21,13 +21,13 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 <a href="https://github.com/xumi1993/STALTA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=STALTA&theme=buefy" />
 </a>
-<a href="https://github.com/xumi1993/SpecFWAT">
+<a href="https://github.com/CompSeismoUT/SpecFWAT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CompSeismoUT&repo=SpecFWAT&theme=buefy" />
 </a>
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,m,perl,matlab,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,cmake,m,perl,matlab,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
 
 <!--
 [![Mijian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xumi1993)](https://github.com/anuraghazra/github-readme-stats)
