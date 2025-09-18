@@ -21,7 +21,7 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 <a href="https://github.com/CompSeismoUT/SpecFWAT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CompSeismoUT&repo=SpecFWAT&theme=buefy" />
 </a>
-<a href="https://github.com/CompSeismoUT/ForAdjoint">
+<a href="https://github.com/xumi1993/ForAdjoint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=ForAdjoint&theme=buefy" />
 </a>
 
