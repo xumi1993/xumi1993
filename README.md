@@ -18,8 +18,8 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 <a href="https://github.com/tomoatt/TomoATT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomoatt&repo=TomoATT&theme=buefy" />
 </a>
-<a href="https://github.com/CompSeismoUT/SpecFWAT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CompSeismoUT&repo=SpecFWAT&theme=buefy" />
+<a href="https://github.com/xumi1993/SpecFWAT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=SpecFWAT&theme=buefy" />
 </a>
 <a href="https://github.com/xumi1993/ForAdjoint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=ForAdjoint&theme=buefy" />
