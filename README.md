@@ -2,32 +2,45 @@
   
 Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as a postdoctoral research fellow.
 
-![Mijian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=buefy)
+## Skills
+
+<div align="center">
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png" alt="Fortran" title="Fortran"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="Qt" title="Qt"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png" alt="LaTeX" title="LaTeX"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/></code>
+	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></code>
+</div>
 
 ## Open source software
 
 <a href="https://github.com/xumi1993/seispy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=seispy&theme=buefy" />
+  <img src="http://socialify.git.ci/xumi1993/seispy/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="seispy" width="400" height="200" />
 </a>
 <a href="https://github.com/xumi1993/SurfATT-iso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=SurfATT-iso&theme=buefy" />
+  <img src="http://socialify.git.ci/xumi1993/SurfATT-iso/image?custom_language=Fortran&description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="SurfATT-iso" width="400" height="200" />
 </a>
 <a href="https://github.com/tomoatt/PyTomoATT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomoatt&repo=PyTomoATT&theme=buefy" />
+  <img src="http://socialify.git.ci/TomoATT/PyTomoATT/image?custom_language=Python&description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="PyTomoATT" width="400" height="200" />
 </a>
 <a href="https://github.com/tomoatt/TomoATT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomoatt&repo=TomoATT&theme=buefy" />
+  <img src="http://socialify.git.ci/TomoATT/TomoATT/image?custom_language=C%2B%2B&description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="TomoATT" width="400" height="200" />
 </a>
 <a href="https://github.com/xumi1993/SpecFWAT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=SpecFWAT&theme=buefy" />
+  <img src="http://socialify.git.ci/xumi1993/SpecFWAT/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="SpecFWAT" width="400" height="200" />
 </a>
 <a href="https://github.com/xumi1993/pyfwat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xumi1993&repo=pyfwat&theme=buefy" />
+  <img src="http://socialify.git.ci/xumi1993/ForAdjoint/image?custom_language=Fortran&description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="ForAdjoint" width="400" height="200" />
 </a>
 
-## Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&hide=jupyter%20notebook,java,cmake,m,perl,matlab,html,shell,css,scss&layout=compact&theme=buefy)](https://github.com/xumi1993/github-readme-stats)
 
 <!--
 [![Mijian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xumi1993)](https://github.com/anuraghazra/github-readme-stats)
