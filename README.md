@@ -6,7 +6,7 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&layout=compact&hide=jupyter%20notebook,java,cmake,m,perl,matlab,html,shell,css,scss)
-<div align="center">
+<!-- <div align="center">
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png" alt="Fortran" title="Fortran"/></code>
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
@@ -19,7 +19,7 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png" alt="LaTeX" title="LaTeX"/></code>
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/></code>
-</div>
+</div> -->
 
 ## Open source software
 
