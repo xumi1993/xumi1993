@@ -2,7 +2,7 @@
   
 Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as a postdoctoral research fellow.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumi1993&show_icons=true&theme=ambient_gradient)
+![Mijian's GitHub stats](./profile/stats.svg)
 
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumi1993&layout=compact&hide=jupyter%20notebook,java,cmake,m,perl,matlab,html,shell,css,scss)
