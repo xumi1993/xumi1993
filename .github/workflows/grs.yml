@@ -37,7 +37,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=xumi1993&repo=seispy
+          options: username=xumi1993&repo=seispy&show_owner=true
           path: profile/seispy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
