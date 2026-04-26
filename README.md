@@ -3,9 +3,10 @@
 Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as a postdoctoral research fellow.
 
 ![Mijian's GitHub stats](./profile/stats.svg)
-
-## Skills
 ![Top Langs](./profile/top-langs.svg)
+
+
+
 <!-- <div align="center">
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png" alt="Fortran" title="Fortran"/></code>
 	<code><img width="54" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
@@ -23,7 +24,15 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 
 ## Open source software
 
-<a href="https://github.com/xumi1993/seispy">
+
+![seispy](./profile/seispy.svg)
+![specfwat](./profile/specfwat.svg)
+![surfatt](./profile/surfatt.svg)
+![tomoatt](./profile/tomoatt.svg)
+![pytomoatt](./profile/pytomoatt.svg)
+![foradjoint](./profile/foradjoint.svg)
+
+<!-- <a href="https://github.com/xumi1993/seispy">
   <img src="http://socialify.git.ci/xumi1993/seispy/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="seispy" width="400" height="200" />
 </a>
 <a href="https://github.com/xumi1993/SurfATT-iso">
@@ -40,7 +49,8 @@ Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as 
 </a>
 <a href="https://github.com/xumi1993/ForAdjoint">
   <img src="http://socialify.git.ci/xumi1993/ForAdjoint/image?custom_language=Fortran&description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto" alt="ForAdjoint" width="400" height="200" />
-</a>
+</a> -->
+
 
 
 <!--
