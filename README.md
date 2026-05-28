@@ -1,6 +1,6 @@
 <h1 align="center"><strong> Mijian Xu <strong/></h1>
   
-Hi, I'm Mijian Xu, a PhD of Seismology. Now working at University of Toronto as a postdoctoral research fellow.
+Hi, I'm Mijian Xu, a PhD of Seismology. Now working at Chinese University of Hong Kong as a Research Assistant Professor.
 
 ![Mijian's GitHub stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
