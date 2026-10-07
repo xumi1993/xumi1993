@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=ambient_gradient
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -31,7 +31,7 @@ jobs:
           card: top-langs
           options: username=xumi1993&layout=compact&card_width=500&theme=ambient_gradient&hide=jupyter%20notebook,java,cmake,m,perl,matlab,html,shell,css,scss
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: seispy
         uses: readme-tools/github-readme-stats-action@v1
@@ -39,7 +39,7 @@ jobs:
           card: pin
           options: username=xumi1993&repo=seispy&show_owner=true&theme=onedark&description_lines_count=2
           path: profile/seispy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: specfwat
         uses: readme-tools/github-readme-stats-action@v1
@@ -47,7 +47,7 @@ jobs:
           card: pin
           options: username=xumi1993&repo=SpecFWAT&show_owner=true&theme=onedark&description_lines_count=2
           path: profile/specfwat.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: surfatt
         uses: readme-tools/github-readme-stats-action@v1
@@ -55,7 +55,7 @@ jobs:
           card: pin
           options: username=xumi1993&repo=surfatt-iso&show_owner=true&theme=onedark&description_lines_count=2
           path: profile/surfatt.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: pytomoatt
         uses: readme-tools/github-readme-stats-action@v1
@@ -63,7 +63,7 @@ jobs:
           card: pin
           options: username=tomoatt&repo=pytomoatt&show_owner=true&theme=onedark&description_lines_count=2
           path: profile/pytomoatt.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: tomoatt
         uses: readme-tools/github-readme-stats-action@v1
@@ -71,7 +71,7 @@ jobs:
           card: pin
           options: username=tomoatt&repo=tomoatt&show_owner=true&theme=onedark&description_lines_count=2
           path: profile/tomoatt.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: foradjoint
         uses: readme-tools/github-readme-stats-action@v1
@@ -79,7 +79,7 @@ jobs:
           card: pin
           options: username=xumi1993&repo=foradjoint&show_owner=true&theme=onedark&description_lines_count=2
           path: profile/foradjoint.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
   
       - name: Commit cards
         run: |
