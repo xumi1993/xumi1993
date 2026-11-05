@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mijian Xu's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 274, Total Commits  (last year) : 621, Total PRs: 332, Total Issues: 163, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 276, Total Commits  (last year) : 621, Total PRs: 332, Total Issues: 163, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 22.20525754356486;
+        stroke-dashoffset: 22.125942421910963;
       }
     }
   
@@ -172,7 +172,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >274</text>
+      >276</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
